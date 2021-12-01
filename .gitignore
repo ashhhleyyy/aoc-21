@@ -1,0 +1,3 @@
+target/
+# Exclude my input files (for now)
+*input.txt
